@@ -1,0 +1,12 @@
+C:\Users\Kirill\flag02\flag02\bin\Debug\b8b66ade1bca0e80c4823447ff2c4b49.png
+C:\Users\Kirill\flag02\flag02\bin\Debug\flag02.exe.config
+C:\Users\Kirill\flag02\flag02\bin\Debug\flag02.exe
+C:\Users\Kirill\flag02\flag02\bin\Debug\flag02.pdb
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.csproj.AssemblyReference.cache
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.Form1.resources
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.Properties.Resources.resources
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.csproj.GenerateResource.cache
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.exe
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.pdb
+C:\Users\Kirill\flag02\flag02\obj\Debug\flag02.exe.config
