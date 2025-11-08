@@ -1,0 +1,11 @@
+D:\Games\ITe\flag03\flag03\bin\Debug\flag03.exe.config
+D:\Games\ITe\flag03\flag03\bin\Debug\flag03.exe
+D:\Games\ITe\flag03\flag03\bin\Debug\flag03.pdb
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.csproj.AssemblyReference.cache
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.Form1.resources
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.Properties.Resources.resources
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.csproj.GenerateResource.cache
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.csproj.CoreCompileInputs.cache
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.exe
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.pdb
+D:\Games\ITe\flag03\flag03\obj\Debug\flag03.exe.config
